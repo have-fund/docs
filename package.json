@@ -1,6 +1,8 @@
 {
   "type": "module",
   "devDependencies": {
+    "@catppuccin/vitepress": "^0.1.2",
+    "sass": "^1.87.0",
     "vitepress": "^1.6.3"
   },
   "scripts": {
