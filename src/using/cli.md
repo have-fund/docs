@@ -1,3 +1,5 @@
 # CLI
 
-Text...
+<NotReadyBadge />
+
+Instructions for working with the Fund using the console.

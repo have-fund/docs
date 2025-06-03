@@ -13,10 +13,24 @@ hero:
       text: Open App
       link: https://app.have-fund.com
     - theme: alt
-      text: Overview
+      text: Documentation
       link: /get-started/overview
 
 features:
+  - title: Cryptocurrency Basics
+    icon: ₿
+    details: Learn the fundamental concepts that allow the Fund to function
+    linkText: Read
+  - title: Community
+    icon: 💬
+    details: Communicate and ask questions in the Fund’s public pages
+    link: /community/telegram
+    linkText: Read
+  - title: History
+    icon: 🗓
+    details: A detailed description of each step of the Fund since its founding
+    link: /management/history
+    linkText: Read
   - title: Have Fund Contract
     icon: 🏦
     details: A complete and transparent history of all Fund transactions on the Avalanche network
