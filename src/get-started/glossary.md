@@ -1,3 +1,5 @@
 # Glossary
 
-Terms...
+<NotReadyBadge />
+
+List of definitions and terms used in articles.
