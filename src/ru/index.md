@@ -6,7 +6,7 @@ hero:
   text: Децентрализованный инвестиционный фонд
   tagline: 💎 Твой капитал работает 24/7
   image:
-    src: /avalanche.svg
+    src: /picture.png
     alt: Avalanche Logo
   actions:
     - theme: brand

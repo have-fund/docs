@@ -6,7 +6,7 @@ hero:
   text: Decentralized investment fund
   tagline: 💎 Your capital works 24/7
   image:
-    src: /avalanche.svg
+    src: /picture.png
     alt: Avalanche Logo
   actions:
     - theme: brand
