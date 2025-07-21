@@ -14,7 +14,7 @@ export default defineConfig({
   srcDir: 'src',
   outDir: 'dist',
   title: 'Have Fund',
-  head: [['link', { rel: 'icon', type: 'image/svg', href: '/avalanche.svg' }]],
+  head: [['link', { rel: 'icon', type: 'image/svg', href: '/icon.png' }]],
   markdown: {
     theme: {
       light: 'catppuccin-latte',
@@ -23,7 +23,7 @@ export default defineConfig({
   },
   themeConfig: {
     logo: {
-      src: '/avalanche.svg',
+      src: '/icon.png',
       alt: 'Avalanche Logo',
     },
     socialLinks: [
