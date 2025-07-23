@@ -2,11 +2,14 @@ export const ru = {
   lang: 'ru-RU',
   label: 'Русский',
   themeConfig: {
+    sidebarMenuLabel: 'Меню',
+    returnToTopLabel: 'Наверх',
+    outlineTitle: 'На этой странице',
+    darkModeSwitchLabel: 'Тёмная тема',
     docFooter: {
       prev: 'Предыдущая страница',
       next: 'Следующая страница',
     },
-    darkModeSwitchLabel: 'Тёмная тема',
     nav: [
       { text: 'Документация', link: '/ru/get-started/overview' },
       { text: 'Приложение', link: 'https://app.have-fund.com' },
@@ -16,7 +19,7 @@ export const ru = {
         text: 'Введение',
         items: [
           { text: 'Обзор', link: '/ru/get-started/overview' },
-          { text: 'Миссия', link: '/ru/get-started/mission' },
+          { text: 'Миссия и ценности', link: '/ru/get-started/mission' },
           { text: 'Глоссарий', link: '/ru/get-started/glossary' },
         ],
       },

@@ -14,6 +14,7 @@ export default defineConfig({
   srcDir: 'src',
   outDir: 'dist',
   title: 'Have Fund',
+  description: 'Decentralized investment fund',
   head: [['link', { rel: 'icon', type: 'image/svg', href: '/icon.png' }]],
   markdown: {
     theme: {
