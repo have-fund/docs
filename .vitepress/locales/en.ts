@@ -11,7 +11,7 @@ export const en = {
       {
         text: 'Get Started',
         items: [
-          { text: 'Overview', link: '/get-started/overview' },
+          { text: 'What the Fund Is', link: '/get-started/overview' },
           { text: 'Mission and Values', link: '/get-started/mission' },
           { text: 'Glossary', link: '/get-started/glossary' },
         ],

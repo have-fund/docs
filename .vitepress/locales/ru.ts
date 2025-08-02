@@ -18,7 +18,7 @@ export const ru = {
       {
         text: 'Введение',
         items: [
-          { text: 'Обзор', link: '/ru/get-started/overview' },
+          { text: 'Что такое Фонд', link: '/ru/get-started/overview' },
           { text: 'Миссия и ценности', link: '/ru/get-started/mission' },
           { text: 'Глоссарий', link: '/ru/get-started/glossary' },
         ],
