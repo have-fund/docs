@@ -49,8 +49,13 @@ export const en = {
             items: [
               { text: 'Stablecoins', link: '/defi/tokens/stablecoins' },
               { text: 'Bitcoin', link: '/defi/tokens/bitcoin' },
+              { text: 'Ether', link: '/ru/defi/tokens/eth' },
               { text: 'AVAX', link: '/defi/tokens/avax' },
+              { text: 'BNB', link: '/ru/defi/tokens/bnb' },
+              { text: 'Bera', link: '/ru/defi/tokens/bera' },
+              { text: 'ARB', link: '/ru/defi/tokens/arb' },
               { text: 'LINK', link: '/defi/tokens/link' },
+              { text: 'XAUt', link: '/ru/defi/tokens/xaut' },
             ],
           },
           {
@@ -58,6 +63,7 @@ export const en = {
             items: [
               { text: 'AAVE', link: '/defi/protocols/aave' },
               { text: 'Uniswap', link: '/defi/protocols/uniswap' },
+              { text: 'GMX', link: '/ru/defi/protocols/gmx' },
               { text: 'LFJ', link: '/defi/protocols/lfj' },
             ],
           },
