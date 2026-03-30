@@ -19,6 +19,7 @@ hero:
 features:
   - title: Cryptocurrency Basics
     icon: ₿
+    link: /core-concepts/decentralized-networks
     details: Learn the fundamental concepts that allow the Fund to function
     linkText: Read
   - title: Community
